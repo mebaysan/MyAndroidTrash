@@ -6,4 +6,28 @@
     android:layout_height="match_parent"
     tools:context=".MyCustomActivity">
 
+    <TextView
+        android:id="@+id/textUsername"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="24dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/textName"
+        app:layout_constraintEnd_toEndOf="@+id/textName"
+        app:layout_constraintStart_toStartOf="@+id/textName"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textName"
+        android:layout_width="270dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="53dp"
+        android:layout_marginBottom="433dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textUsername" />
 </androidx.constraintlayout.widget.ConstraintLayout>
