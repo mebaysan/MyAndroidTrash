@@ -48,6 +48,6 @@ class MainActivity : AppCompatActivity() {
         ) // key-value şeklinde bu değerleri Intent içerisine ekliyoruz
         intent.putExtra("name", editTextName.text.toString())
         startActivity(intent) // belirttiğimiz sınıfa bizi götürecektir
-        finish() // bu aktiviteyi bitirir/kapatır 
+        finish() // bu aktiviteyi bitirir/kapatır
     }
 }
