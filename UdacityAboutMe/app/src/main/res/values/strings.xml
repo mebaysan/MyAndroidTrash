@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Udacity About Me</string>
+    <string name="name">Baysan</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_text">
+        Merhaba. Ben Muhammed Enes Baysan.\nYönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Backend development üzerine kendimi geliştirmeye çalışıyorum.\n\n
+        Merhaba. Ben Muhammed Enes Baysan.\nYönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Backend development üzerine kendimi geliştirmeye çalışıyorum.\n\n
+        Merhaba. Ben Muhammed Enes Baysan.\nYönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Backend development üzerine kendimi geliştirmeye çalışıyorum.\n\n
+        Merhaba. Ben Muhammed Enes Baysan.\nYönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Backend development üzerine kendimi geliştirmeye çalışıyorum.\n\n
+        Merhaba. Ben Muhammed Enes Baysan.\nYönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Backend development üzerine kendimi geliştirmeye çalışıyorum.\n\n
+        Merhaba. Ben Muhammed Enes Baysan.\nYönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Backend development üzerine kendimi geliştirmeye çalışıyorum.\n\n
+        Merhaba. Ben Muhammed Enes Baysan.\nYönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Backend development üzerine kendimi geliştirmeye çalışıyorum.\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done_button_text">Done</string>
+</resources>
