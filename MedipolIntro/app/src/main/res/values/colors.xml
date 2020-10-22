@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D32F2F</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="btnRenkli">#BC1717</color>
+    <color name="btnSiyah">#121212</color>
+    <color name="textDuz">#FFFFFF</color>
+    <color name="textRenkli">#BC1717</color>
+    <color name="textInput">#121212</color>
+</resources>

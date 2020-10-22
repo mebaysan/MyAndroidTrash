@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Info">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="75dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tvInfoHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="İletişim Bilgilerimiz"
+            android:textAllCaps="false"
+            android:textColor="@color/textRenkli"
+            android:textSize="28sp" />
+
+        <Button
+            android:id="@+id/btnWeb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:height="55dp"
+            android:backgroundTint="@color/btnSiyah"
+            android:onClick="toWeb"
+            android:text="Web Sitesi"
+            android:textAllCaps="false"
+            android:textColor="@color/textDuz" />
+
+        <Button
+            android:id="@+id/btnEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:height="55dp"
+            android:backgroundTint="@color/btnRenkli"
+            android:onClick="toEmail"
+            android:text="Mail"
+            android:textAllCaps="false"
+            android:textColor="@color/textDuz" />
+
+        <Button
+            android:id="@+id/btnTel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:height="55dp"
+            android:backgroundTint="@color/btnSiyah"
+            android:onClick="callPhone"
+            android:text="Acil Destek"
+            android:textAllCaps="false"
+            android:textColor="@color/textDuz" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
