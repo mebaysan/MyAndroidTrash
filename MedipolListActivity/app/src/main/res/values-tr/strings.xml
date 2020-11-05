@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">İsim</string>
+    <string name="surname">Soyisim</string>
+    <string name="department">Bölüm</string>
+    <string name="cancel">İptal</string>
+    <string name="save">Kaydet</string>
+    <string name="success">Başarılı</string>
+    <string name="add_new_record">Yeni Kayıt Ekle</string>
+    <string name="student_form">Öğrenci Formu</string>
+</resources>

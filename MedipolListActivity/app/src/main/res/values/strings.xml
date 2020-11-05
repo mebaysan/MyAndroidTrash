@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="department">Department</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="success">Success</string>
+    <string name="add_new_record">Add New Record</string>
+    <string name="student_form">Student Form</string>
+</resources>
