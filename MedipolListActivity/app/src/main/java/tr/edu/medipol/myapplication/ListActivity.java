@@ -54,8 +54,8 @@ public class ListActivity extends AppCompatActivity {
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
-        if(requestCode == 1){
-            if(resultCode == RESULT_OK){
+        if(requestCode == 1){ // bizim yolladığımız code
+            if(resultCode == RESULT_OK){ // kullanıcının verdiği cevap (okey mi?)
                 Log.e("onActivityResult: ", "ok");
                 Log.e( "name: ", data.getStringExtra("name") );
                 Log.e( "surname: ", data.getStringExtra("surname") );
