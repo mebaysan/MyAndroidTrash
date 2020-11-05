@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MedipolToDoList</string>
+    <string name="btnNavAddItemText">ToDo Ekle</string>
+    <string name="todoInfo">Henüz eklenmiş bir ToDo bulunmamaktadır!</string>
+    <string name="btnToDoAddText">ToDo Ekle</string>
+    <string name="tvToDoNameText">ToDo Adı Giriniz</string>
+    <string name="addToDoError">"ToDo adı boş olamaz"</string>
+    <string name="todoForm">ToDo Form</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MedipolToDoList</string>
+    <string name="btnNavAddItemText">Add ToDo</string>
+    <string name="todoInfo">There is no ToDo added yet!</string>
+    <string name="btnToDoAddText">Add ToDo</string>
+    <string name="tvToDoNameText">Enter ToDo Name</string>
+    <string name="addToDoError">"ToDo name cannot be empty!"</string>
+    <string name="todoForm">ToDo Form</string>
+</resources>
