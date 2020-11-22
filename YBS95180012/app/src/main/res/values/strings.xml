@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YBS95180012</string>
+    <string name="btnCallText">Call</string>
+    <string name="btnMailText">Send E-Mail</string>
+    <string name="btnCityText">My City</string>
+    <string name="btnLessonText">My Lessons</string>
+    <string name="callWarningText">No Suitable Translation Program Found!</string>
+    <string name="btnMailWarning">No Suitable Mail Program Found!</string>
+    <string name="coursesTitle">My Lessons</string>
+    <string name="myCityText">My City Activity</string>
+</resources>
