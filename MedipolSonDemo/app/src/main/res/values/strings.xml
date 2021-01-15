@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MedipolLastDemo</string>
+    <string name="splashText">BaysanSoft</string>
+    <string name="weather">Weather</string>
+    <string name="click_for_details">Click for details</string>
+    <string name="photos">Photos</string>
+    <string name="btnWallpaper">Set Wallpaper</string>
+    <string name="photoDetailWarning">Attention</string>
+    <string name="photoDetailMessage">Do you want to change background</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+</resources>

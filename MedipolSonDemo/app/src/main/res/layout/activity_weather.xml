@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/layoutBG"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".WeatherActivity">
+
+    <TextView
+        style="@style/label"
+        android:text="İSTANBUL" />
+
+    <ImageView
+        android:id="@+id/ivWeather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvMGM"
+        android:background="?android:selectableItemBackground"
+        style="@style/label"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="@string/click_for_details"
+        android:textColor="@color/myBlue"
+        android:textSize="13sp" />
+
+</LinearLayout>

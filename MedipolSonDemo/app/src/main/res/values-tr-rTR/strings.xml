@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MedipolSonDemo</string>
+    <string name="splashText">BaysanSoft</string>
+    <string name="weather">Hava Durumu</string>
+    <string name="click_for_details">Detaylar için tıklayın</string>
+    <string name="photos">Fotoğraflar</string>
+    <string name="btnWallpaper">Duvar kağıdı olarak ayarla</string>
+    <string name="photoDetailWarning">Uyarı</string>
+    <string name="photoDetailMessage">Arka plan resmini değiştirmek istediğinize emin misiniz?</string>
+    <string name="cancel">İptal</string>
+    <string name="yes">Evet</string>
+</resources>
