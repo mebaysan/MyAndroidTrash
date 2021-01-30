@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YBS95180012</string>
+    <string name="splash_student_number_label">Öğrenci Numarası</string>
+    <string name="splash_student_name_label">İsim</string>
+    <string name="splash_student_city_label">Şehir</string>
+    <string name="cityWeather">Hava Durumu</string>
+    <string name="btnGallery">Galeri</string>
+    <string name="btnDistrict">İlçeler</string>
+    <string name="btnAboutText">Hakkında</string>
+    <string name="snackText">Güzeldir</string>
+</resources>

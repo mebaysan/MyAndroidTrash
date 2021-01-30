@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YBSEnesBaysan</string>
+    <string name="splash_student_number_label">Student Number</string>
+    <string name="splash_student_number_text" translatable="false">YBSEnesBaysan</string>
+    <string name="splash_student_name_label">Name</string>
+    <string name="splash_student_name_text" translatable="false">Muhammed Enes Baysan</string>
+    <string name="splash_student_city_text" translatable="false">İstanbul</string>
+    <string name="splash_student_city_label">City</string>
+    <string name="cityName" translatable="false">Hakkari</string>
+    <string name="cityWeather">Weather</string>
+    <string name="btnGallery">Gallery</string>
+    <string name="btnDistrict">Districts</string>
+    <string name="btnAboutText">About</string>
+    <string name="snackText">is Beautiful</string>
+</resources>

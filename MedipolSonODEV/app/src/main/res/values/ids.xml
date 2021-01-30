@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvSplashNumberLabel" type="id"/>
+    <item name="tvSplashNumberText" type="id"/>
+    <item name="tvSplashNameLabel" type="id" />
+    <item name="tvSplashNameText" type="id" />
+    <item name="tvSplashCityLabel" type="id" />
+    <item name="tvSplashCityText" type="id" />
+</resources>
